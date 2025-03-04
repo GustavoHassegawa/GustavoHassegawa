@@ -5,4 +5,4 @@
 
 [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHassegawa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHassegawa&hide_progress=false)
